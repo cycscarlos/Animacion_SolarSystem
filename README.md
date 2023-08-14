@@ -12,7 +12,7 @@ Este proyecto consiste en una animación interactiva del sistema Solar, desarrol
 
 <br>
 
-Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Animacion_Atomo):
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Animacion_SolarSystem):
 
 <br>
 
